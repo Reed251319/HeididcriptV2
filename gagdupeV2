@@ -1,3 +1,3 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DupeNew/loader/refs/heads/main/EggRandomizer"))()
 
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/dQ2U8jjUiMR3qHaX/raw", true))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/cVq63dV1ZuCJmNUm/raw", true))()
